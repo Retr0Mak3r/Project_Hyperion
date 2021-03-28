@@ -13,6 +13,6 @@ class TestController extends Controller
 
 	public function post($args)
 	{
-		// TODO: Implement post() method.
+		var_dump($args);
 	}
 }
