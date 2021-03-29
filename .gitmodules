@@ -1,3 +1,9 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/MacaronFR/Project_Hyperion_API.git
+[submodule "clientc"]
+	path = clientc
+	url = https://github.com/MacaronFR/Project-Hyperion-ClientC.git
+[submodule "site"]
+	path = site
+	url = https://github.com/MacaronFR/Hyperion-WebSite.git
