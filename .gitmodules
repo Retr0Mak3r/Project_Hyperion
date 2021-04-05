@@ -7,3 +7,6 @@
 [submodule "site"]
 	path = site
 	url = https://github.com/MacaronFR/Hyperion-WebSite.git
+[submodule "serverc"]
+	path = serverc
+	url = https://github.com/MacaronFR/serverc.git
