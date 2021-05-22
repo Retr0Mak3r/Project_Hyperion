@@ -10,3 +10,6 @@
 [submodule "serverc"]
 	path = serverc
 	url = https://github.com/MacaronFR/serverc.git
+[submodule "android"]
+	path = android
+	url = https://github.com/MacaronFR/AndroidAppHyperion
